@@ -1,0 +1,37 @@
+_repo: The-Comedienne_25760
+_version: 0.1.0
+alternative_title: Komediantka. English
+contributor:
+  translator:
+    agent_name: Obecny, Edmund
+    gutenberg_agent_id: '31563'
+    url: http://www.gutenberg.org/2009/agents/31563
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Reymont, Władysław Stanisław
+    aliases:
+    - Reymont, Wladyslaw Stanislaw
+    - Reymont, Ladislas
+    birthdate: 1867
+    deathdate: 1925
+    gutenberg_agent_id: '31559'
+    url: http://www.gutenberg.org/2009/agents/31559
+    wikipedia: http://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Reymont
+description: ''
+gutenberg_issued: '2008-06-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25760'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poland -- Fiction'
+- !lcsh 'Actresses -- Fiction'
+- !lcc 'PG'
+title: The Comedienne
+url: http://www.gutenberg.org/ebooks/25760
