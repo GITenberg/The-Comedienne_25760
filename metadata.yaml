@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31559
     wikipedia: http://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Reymont
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25760#The-Comedienne
 gutenberg_issued: '2008-06-11'
 gutenberg_type: Text
 identifiers:
